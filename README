@@ -1,0 +1,14 @@
+# README               #
+# LUDUM DARE FRAMEWORK #
+
+# OVERVIEW #
+This is a bare-bones framework for Ludum Dare competition entries.  Initially,
+Linux and Windows are supported for sprite-based games.
+
+There are no assets provided with the exception of possibly a logo for the
+framework, the GPL logo, and a bitmap font for debug text or in-game text if
+the user so desires to use it as such.
+
+Any additions are welcome.  A roadmap document describing the goals in a long-
+term format will be forthcoming.
+
